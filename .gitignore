@@ -1,2 +1,6 @@
 .vagrant
+*.iso
+*.lock
+packer/
+!*.json
 
