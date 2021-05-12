@@ -3,4 +3,4 @@
 *.lock
 packer/
 !*.json
-
+!*.ks
